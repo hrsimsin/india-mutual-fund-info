@@ -8,12 +8,13 @@
     "url": "git+https://github.com/hrsimsin/india-mutual-fund-info.git"
   },
   "author": "Harsimar Singh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hrsimsin/india-mutual-fund-info/issues"
   },
   "homepage": "https://github.com/hrsimsin/india-mutual-fund-info#readme",
   "dependencies": {
     "node-fetch": "^2.6.1"
-  }
+  },
+  "keywords": ["AMFI","Mutual Fund"]
 }
