@@ -94,9 +94,3 @@ class NAV{
 }
 
 module.exports=NAV;
-
-NAV.history(new Date("24 may 2021"),new Date("24 may 2021")).then((result)=>{
-    console.log(result);
-},(reason)=>{
-    console.log(reason);
-});
