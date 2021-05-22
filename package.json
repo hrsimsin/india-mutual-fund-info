@@ -1,6 +1,6 @@
 {
   "name": "india-mutual-fund-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides a Javascript function interface for accessing historical and current information about Indian Mutual Funds. Text data is downloaded from AMFI's portal https://www.amfiindia.com/ and returned as an object.",
   "main": "main.js",
   "repository": {
